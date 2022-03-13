@@ -23,7 +23,7 @@ Hi, i'm Vinh, a passionate blockchain developer and project manager in [Cosmos](
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:nghuyenthevinh@gmail.com)
+- 💼 how to reach me? [email](mailto:nghuyenthevinh@gmail.com)
 - 💬 ask me about anything, i am happy to help;
 
 🚧 **my todoist stats:**
