@@ -39,6 +39,9 @@ Hi, i'm Vinh, a passionate blockchain developer and project manager in [Cosmos](
 </div>
 
 <br />
+<br />
+<br />
+<br />
 <hr />
 <br />
 
