@@ -23,19 +23,6 @@ Hi, i'm Vinh, a passionate blockchain developer and project manager in [Cosmos](
 - 💼 any freelance work? do reach, [email](mailto:nghuyenthevinh@gmail.com)
 - 💬 ask me about anything, i am happy to help;
 
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   4 hrs 6 mins    ████████████████████████░   95.74 %
-Bash         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-MDX          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
-<!--END_SECTION:waka-->
-
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  5,369 Karma Points           
@@ -48,7 +35,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nghuyenthevinh2000&show_icons=true&theme=gotham" alt="nghuyenthevinh2000" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nghuyenthevinh2000&show_icons=true&theme=gotham&count_private=true" alt="nghuyenthevinh2000" />
 
 
 
