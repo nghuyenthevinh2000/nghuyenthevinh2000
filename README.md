@@ -21,7 +21,8 @@
 
 Hi, i'm Vinh, a passionate blockchain developer and project manager in [Cosmos](https://cosmos.network/) ecosystem. As a developer, I constantly look for new technology to implement. As a project manager, I make sure that communication is clear, and product is delivered within timeframe.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="280" />
+<div>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="280" />
   
 - 💼 how to reach me? [email](mailto:nghuyenthevinh@gmail.com)
 - 💬 ask me about anything, i am happy to help;
@@ -35,6 +36,10 @@ Hi, i'm Vinh, a passionate blockchain developer and project manager in [Cosmos](
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 
+</div>
+
+<br />
+<hr />
 <br />
 
 📈 my github stats
