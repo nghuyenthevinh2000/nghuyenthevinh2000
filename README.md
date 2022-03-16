@@ -12,7 +12,7 @@
   <img align="left" alt="Vinh LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/31g7zjzqo6tlzrs6fagodg7sx3xy">
-  <img align="left" alt="Vinh Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Vinh Spotify" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/spotify.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nghuyenthevinh2000.nghuyenthevinh2000)
