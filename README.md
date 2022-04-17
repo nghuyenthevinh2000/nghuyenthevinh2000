@@ -30,9 +30,9 @@ Hi, i'm Vinh, a passionate blockchain developer and project manager in [Cosmos](
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  5,931 Karma Points           
-🌸  Completed 2 tasks today           
-🗓  Completed 9 tasks this week           
-✅  Completed 239 tasks so far           
+🌸  Completed 3 tasks today           
+🗓  Completed 10 tasks this week           
+✅  Completed 240 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 
