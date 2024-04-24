@@ -7,7 +7,7 @@
 
 <br />
 
-Hi, i'm Vinh, a passionate blockchain engineer in the [Cosmos](https://cosmos.network/) ecosystem.
+Hi, i'm Vinh, a passionate blockchain engineer in the [Cosmos](https://cosmos.network/) ecosystem. Perpetual core maintainer of Terra Classic, as long as the community is alive 😑
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="280" />
